@@ -1,0 +1,11 @@
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\bin\Debug\net7.0\ThreadTaskAwaitSync.Domain.deps.json
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\bin\Debug\net7.0\ThreadTaskAwaitSync.Domain.dll
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\bin\Debug\net7.0\ThreadTaskAwaitSync.Domain.pdb
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\obj\Debug\net7.0\ThreadTaskAwaitSync.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\obj\Debug\net7.0\ThreadTaskAwaitSync.Domain.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\obj\Debug\net7.0\ThreadTaskAwaitSync.Domain.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\obj\Debug\net7.0\ThreadTaskAwaitSync.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\obj\Debug\net7.0\ThreadTaskAwaitSync.Domain.dll
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\obj\Debug\net7.0\refint\ThreadTaskAwaitSync.Domain.dll
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\obj\Debug\net7.0\ThreadTaskAwaitSync.Domain.pdb
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Domain\obj\Debug\net7.0\ref\ThreadTaskAwaitSync.Domain.dll

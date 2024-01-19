@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ThreadTaskAwaitSync.Helpers/1.0.0": {
+        "dependencies": {
+          "ThreadTaskAwaitSync.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ThreadTaskAwaitSync.Helpers.dll": {}
+        }
+      },
+      "ThreadTaskAwaitSync.Domain/1.0.0": {
+        "runtime": {
+          "ThreadTaskAwaitSync.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreadTaskAwaitSync.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ThreadTaskAwaitSync.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

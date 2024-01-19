@@ -1,0 +1,15 @@
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\bin\Debug\net7.0\ThreadTaskAwaitSync.Helpers.deps.json
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\bin\Debug\net7.0\ThreadTaskAwaitSync.Helpers.dll
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\bin\Debug\net7.0\ThreadTaskAwaitSync.Helpers.pdb
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\bin\Debug\net7.0\ThreadTaskAwaitSync.Domain.dll
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\bin\Debug\net7.0\ThreadTaskAwaitSync.Domain.pdb
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\ThreadTaskAwaitSync.Helpers.csproj.AssemblyReference.cache
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\ThreadTaskAwaitSync.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\ThreadTaskAwaitSync.Helpers.AssemblyInfoInputs.cache
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\ThreadTaskAwaitSync.Helpers.AssemblyInfo.cs
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\ThreadTaskAwaitSync.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\ThreadTaskAwaitSync.Helpers.csproj.CopyComplete
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\ThreadTaskAwaitSync.Helpers.dll
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\refint\ThreadTaskAwaitSync.Helpers.dll
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\ThreadTaskAwaitSync.Helpers.pdb
+C:\Users\Honor MagicBook\Downloads\ThreadTaskAwaitSync\ThreadTaskAwaitSync.Helpers\obj\Debug\net7.0\ref\ThreadTaskAwaitSync.Helpers.dll

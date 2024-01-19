@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Domain\\ThreadTaskAwaitSync.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Domain\\ThreadTaskAwaitSync.Domain.csproj",
+        "projectName": "ThreadTaskAwaitSync.Domain",
+        "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Domain\\ThreadTaskAwaitSync.Domain.csproj",
+        "packagesPath": "C:\\Users\\Honor MagicBook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Honor MagicBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Helpers\\ThreadTaskAwaitSync.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Helpers\\ThreadTaskAwaitSync.Helpers.csproj",
+        "projectName": "ThreadTaskAwaitSync.Helpers",
+        "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Helpers\\ThreadTaskAwaitSync.Helpers.csproj",
+        "packagesPath": "C:\\Users\\Honor MagicBook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Helpers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Honor MagicBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Domain\\ThreadTaskAwaitSync.Domain.csproj": {
+                "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Domain\\ThreadTaskAwaitSync.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.csproj",
+        "projectName": "ThreadTaskAwaitSync",
+        "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.csproj",
+        "packagesPath": "C:\\Users\\Honor MagicBook\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Honor MagicBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Helpers\\ThreadTaskAwaitSync.Helpers.csproj": {
+                "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\ThreadTaskAwaitSync\\ThreadTaskAwaitSync.Helpers\\ThreadTaskAwaitSync.Helpers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
